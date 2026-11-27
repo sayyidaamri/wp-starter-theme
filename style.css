@@ -1,0 +1,15 @@
+/*
+Theme Name: Starter Theme
+Theme URI: https://github.com/sayyidaamri/wp-starter-theme
+Author: Amri Sayyida
+Author URI: https://amrisayyida.my.id
+Description: Lean, dynamic classic theme for production builds. CPTs and custom fields come from one config file, site-wide copy from the Customizer, sections from template parts.
+Version: 1.0.0
+Requires at least: 6.4
+Requires PHP: 8.0
+License: GPL-2.0-or-later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: starter
+*/
+
+/* Styles live in assets/css/main.css (enqueued in inc/enqueue.php). */
